@@ -1,0 +1,14 @@
+{
+  "documentDirectoryEntryRequestActionTaskRecord" : {},
+  "requestRecordReference" : "RRR706880",
+  "documentDirectoryEntryInstanceRecord" : {
+    "documentArchivingHistory" : "documentArchivingHistory",
+    "documentUpdateHistory" : "documentUpdateHistory",
+    "documentVersionHistory" : "documentVersionHistory",
+    "documentVerificationHistory" : "documentVerificationHistory",
+    "documentAmendmentHistory" : "documentAmendmentHistory",
+    "documentProvisioningHistory" : "documentProvisioningHistory"
+  },
+  "documentDirectoryEntryRequestActionTaskReference" : "DDERATR767722",
+  "requestResponseRecord" : {}
+}

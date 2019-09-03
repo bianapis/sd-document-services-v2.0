@@ -1,0 +1,36 @@
+{
+  "documentDirectoryEntryRetrieveActionTaskReference" : "DDERATR752892",
+  "documentDirectoryEntryInstanceReportRecord" : {
+    "documentDirectoryEntryInstanceReport" : {},
+    "documentDirectoryEntryInstanceReportType" : "documentDirectoryEntryInstanceReportType",
+    "documentDirectoryEntryInstanceReportData" : "documentDirectoryEntryInstanceReportData"
+  },
+  "documentDirectoryEntryInstanceRecord" : {
+    "productServiceReference" : "715006",
+    "documentCreationDate" : "09-22-2018",
+    "documentSubjectReference" : "766192",
+    "documentTypeDescription" : "documentTypeDescription",
+    "documentCaptureDateTime" : "09-22-2018",
+    "documentUpdateHistory" : "documentUpdateHistory",
+    "businessUnitEmployeeReference" : "782792",
+    "documentName" : "documentName",
+    "documentContent" : "documentContent",
+    "documentAmendmentHistory" : "documentAmendmentHistory",
+    "documentLocation" : "documentLocation",
+    "documentArchivingHistory" : "documentArchivingHistory",
+    "productServiceActionReference" : "794322",
+    "documentVersionHistory" : "documentVersionHistory",
+    "documentStatus" : "documentStatus",
+    "locationReference" : "764388",
+    "documentVerificationHistory" : "documentVerificationHistory",
+    "documentMediaFormat" : "documentMediaFormat",
+    "documentProvisioningHistory" : "documentProvisioningHistory"
+  },
+  "documentDirectoryEntryRetrieveActionResponse" : "documentDirectoryEntryRetrieveActionResponse",
+  "documentDirectoryEntryRetrieveActionTaskRecord" : {},
+  "documentDirectoryEntryInstanceAnalysis" : {
+    "documentDirectoryEntryInstanceAnalysisReport" : {},
+    "documentDirectoryEntryInstanceAnalysisData" : "documentDirectoryEntryInstanceAnalysisData",
+    "documentDirectoryEntryInstanceAnalysisReportType" : "documentDirectoryEntryInstanceAnalysisReportType"
+  }
+}

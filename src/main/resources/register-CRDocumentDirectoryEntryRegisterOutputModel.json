@@ -1,0 +1,18 @@
+{
+  "documentDirectoryEntryInstanceRecord" : {
+    "documentSubjectReference" : "723237",
+    "documentArchivingHistory" : "documentArchivingHistory",
+    "documentUpdateHistory" : "documentUpdateHistory",
+    "documentVersionHistory" : "documentVersionHistory",
+    "documentStatus" : "documentStatus",
+    "documentVerificationHistory" : "documentVerificationHistory",
+    "documentAmendmentHistory" : "documentAmendmentHistory",
+    "documentLocation" : "documentLocation",
+    "documentMediaFormat" : "documentMediaFormat",
+    "documentProvisioningHistory" : "documentProvisioningHistory"
+  },
+  "documentDirectoryEntryRegisterActionRecord" : {},
+  "documentDirectoryEntryRegisterActionReference" : "DDERAR719188",
+  "documentDirectoryEntryInstanceStatus" : "documentDirectoryEntryInstanceStatus",
+  "documentDirectoryEntryInstanceReference" : "DDEIR779521"
+}

@@ -1,0 +1,26 @@
+{
+  "documentDirectoryEntryInstanceRecord" : {
+    "productServiceReference" : "761668",
+    "documentCreationDate" : "09-22-2018",
+    "documentSubjectReference" : "766570",
+    "documentTypeDescription" : "documentTypeDescription",
+    "documentCaptureDateTime" : "09-22-2018",
+    "documentUpdateHistory" : "documentUpdateHistory",
+    "businessUnitEmployeeReference" : "785621",
+    "documentName" : "documentName",
+    "documentContent" : "documentContent",
+    "documentAmendmentHistory" : "documentAmendmentHistory",
+    "documentLocation" : "documentLocation",
+    "documentArchivingHistory" : "documentArchivingHistory",
+    "productServiceActionReference" : "718369",
+    "documentVersionHistory" : "documentVersionHistory",
+    "documentStatus" : "documentStatus",
+    "locationReference" : "750732",
+    "documentVerificationHistory" : "documentVerificationHistory",
+    "documentMediaFormat" : "documentMediaFormat",
+    "documentProvisioningHistory" : "documentProvisioningHistory"
+  },
+  "documentDirectoryEntryUpdateActionTaskReference" : "DDEUATR797604",
+  "updateResponseRecord" : {},
+  "documentDirectoryEntryUpdateActionTaskRecord" : {}
+}
